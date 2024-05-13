@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <header className='w-full flex justify-center items-center flex-col'>
       <nav className='flex justify-between items-center w-full mb-10 pt-3'>
-        <img src="https://toppng.com/uploads/preview/peach-aviation-airline-logo-vector-11573946623b86lfbucej.png" alt='sumz_logo' className='w-28 object-contain' />
+        {/* <img src="https://toppng.com/uploads/preview/peach-aviation-airline-logo-vector-11573946623b86lfbucej.png" alt='sumz_logo' className='w-28 object-contain' /> */}
 
         <button
           type='button'
