@@ -67,11 +67,7 @@ const Demo = () => {
           className='relative flex justify-center items-center'
           onSubmit={handleSubmit}
         >
-          <img
-            src={linkIcon}
-            alt='link-icon'
-            className='absolute left-0 my-2 ml-3 w-5'
-          />
+        
 
           <input
             type='url'
